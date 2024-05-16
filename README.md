@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🎓 Estou estudando Análise de Desenvolvimento de Sistemas na Fatec Franca.
 - 🌱 Etudando SQL e Python
 - 💼 Estou buscando oportunidades em Estagio em técnologia.
